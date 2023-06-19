@@ -1,0 +1,163 @@
+body {
+  background-color: #000;
+}
+#console {
+  font-family: courier, monospace;
+  color: #fff;
+  width: 1135px;
+  height: auto;
+  padding: auto;
+  margin-top:5px;
+  font-size:14px;
+  background-image: url("3.png");
+}
+
+#image{
+  float: left;
+  margin: 5px 30px 15px 0;
+}
+
+.media-body{
+  height: 50px;
+}
+a {
+  color: #3366ff;
+  text-decoration: none;
+}
+.command-line {
+  background-image: url("2.png");
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.command-results {
+  background-color: #000;
+  padding-left: 40px;
+  padding-right: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#a {
+  color: #0f0;
+}
+#c {
+  color: #0bc;
+}
+#b {
+  color: #ff0096;
+}
+#d {
+  color: #b38f00;
+}
+#e {
+  color: #3366ff;
+}
+#f{
+  color: #fff;
+}
+.container{
+  padding-top: 5px;
+}
+h1{
+  color: #ffffff;
+  text-align: justify;
+}
+
+h4{
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 245px;
+  height: auto;
+}
+
+.img-responsive{
+  padding: auto;
+  height:auto; 
+  width:100%
+}
+
+[class*="col-"] {
+  float: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 15px;
+}
+
+@media screen and (max-width: 768px){
+  #console{max-width: 400px;},
+  #image{
+    align-content: center;
+    align-items: center;
+    width: 100%;
+  }
+}
+
+/*mobile break point*/
+/*@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .image{
+    display: none;
+  }
+
+}*/
+
+#span-social{
+  float: left;
+}
+
+#social{
+  position: relative;
+  margin-top: -35px;
+  margin-bottom: -15px;
+  text-align: center;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 10px;
+  display: inline-block;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter:hover{
+  opacity: 0.1;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  opacity: 0.2;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-skype:disabled {
+  background: #00aff0;
+  color: white;
+  opacity: 1.0;
+}
+
+.fa-android:disabled {
+  background: #a4c639;
+  color: white;
+  opacity: 1.0;
+}
+
+.fa-github {
+  background: #444444;
+  color: white;
+}

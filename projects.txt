@@ -1,0 +1,16 @@
+<div class="media-body">
+    <h4>Moses Gichia</h4>
+</div>
+<div class="command-line">
+	<span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span> nano my-projects.txt
+	<div class="command-results row">
+		<div class="col-*-6">
+			<img class="img-responsive rounded-circle" src="mine.png" id="image"/>
+			<p>Listed below are some of the projects have undertaken:</p><!-- laglaglaglaglaglag --><span id="d"><ul><li>Developed a myOSINT tool.</li><li>Founder and CEO, Burudika Ventures (<a href="#">Burudika Ventures</a>).</li><li>Developed skateboards and rollerskates MIS for my class project.</li><li>Founder of Mitahato IT group.</li><li>Currently working updating my OSINT tool.</li><li>Not forgetting this online portfolio of mine!</li></ul></span></div>
+	</div>
+	<div id="social">
+		<span id="span-social"><span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span>ls contact-information :</span> 
+		<a href="https://twitter.com/fr13ndx1" class="fa fa-twitter"></a><a href="https://www.linkedin.com/in/mosesgichia/" class="fa fa-linkedin"></a><a href="#" class="fa fa-instagram"></a></a><a href="https://github.com/fr13nd-x" class="fa fa-github"></a>
+	</div>
+</div>
+<a href="more.html"><button type="button" class="btn btn-primary float-left">Back</button></a> <a href="index.html"><button type="button" class="btn btn-primary float-right">Home</button></a>

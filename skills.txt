@@ -1,0 +1,16 @@
+<div class="media-body">
+    <h4>Moses Gichia</h4>
+</div>
+<div class="command-line">
+	<span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span>cd /Me/skills && ls
+	<div class="command-results row">
+		<div class="col-*-6">
+			<img class="img-responsive rounded-circle" src="mine.png" id="image"/>
+			<p>Available for Hire or Freelancing in :<span id="c"> python development,</span><span id="a"> Web Development,</span><span id="d"> System Administration,</span><span id="e"> Information Systems Security Management,</span><span id="b"> Penetration testing</span> and any other (Information Technology) related opportunities.</p><!-- laglaglaglaglaglag --><p>Here are some of the things I can help you with:</p><!-- laglaglaglaglaglag --><span id="c"><ul><li>Project Management</li><li>Network Security and Analysis</li><li>Software engineering <span id="f">Ethical hacking </span></li><li>Information Systems Security</li><li>Linux/Unix Server Administration &amp Management</li><li>Experienced in User Support and related issues</li><li>Unix/Linux Programming / scripting</li><li>Good at improvising &amp being innovative</li><li>Inspiring the best out of those around.</li></ul></span></div>
+	</div>
+	<div id="social">
+		<span id="span-social"><span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span>ls contact-information :</span> 
+		<a href="https://twitter.com/fr13ndx1" class="fa fa-twitter"></a><a href="https://www.linkedin.com/in/mosesgichia/" class="fa fa-linkedin"></a><a href="#" class="fa fa-instagram"></a></a><a href="https://github.com/fr13nd-x" class="fa fa-github"></a>
+	</div>
+</div>
+<a href="index.html"><button type="button" class="btn btn-primary float-left">Back</button></a><a href="projects.html"><button type="button" class="btn btn-primary float-right">Projects</button></a>

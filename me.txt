@@ -1,0 +1,23 @@
+<div class="media-body">
+    <h4>Moses Gichia</h4>
+</div>
+<div class="command-line">
+	<span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span> nano me.txt
+	<div class="command-results row">
+		<div class="col-*-6">
+		<img class="img-responsive rounded-circle" src="mine.png" id="image"/>
+		Hello.<!-- laglaglaglaglaglag --><p> I'm Moses Gichia .<!-- laglaglaglaglaglag --><br> I am a Cyber Security specialist.<p> A Professional Certificate in Cyber security (Cyber Shujaa) - USIU. <span id="c">A Python and C Software Engineer | Ethical Hacker | Network Technician.</span>
+
+		My main interest lies with <span id="b"> Cyber Security,</span> <span id="c"> Penetration Testing,</span> <span id="a"> Network Security & Administration,</span> <span id="d">Graphic Design and Software engineering (scripting).</span>
+
+		As a cybersecurity specialist, my vision is to build an impenetrable digital fortress where data and systems are shielded from malicious attacks. I strive to be at the forefront of emerging threats, employing cutting-edge technologies and innovative strategies to stay one step ahead. By cultivating a culture of security awareness and providing comprehensive training, I aim to empower individuals and organizations to protect themselves. My vision encompasses a collaborative approach, forging partnerships with stakeholders to create a unified front against cybercrime. Together, we will ensure a secure and trustworthy digital landscape, enabling society to thrive in an interconnected world.
+
+		<span id="c">"The way of success is the way of continuous pursuit of Knowledge."</span> - by <a href="http://napoleonhill.wwwhubs.com"> Napolion Hill.</a>
+		</div>
+	</div>
+	<div id="social">
+		<span id="span-social"><span id="a">root@kali</span>:<span id="b">~</span><span id="c">fr13ndx $</span>ls contact-information :</span> 
+		<a href="https://twitter.com/fr13ndx1" class="fa fa-twitter"></a><a href="https://www.linkedin.com/in/mosesgichia/" class="fa fa-linkedin"></a><a href="#" class="fa fa-instagram"></a></a><a href="https://github.com/fr13nd-x" class="fa fa-github"></a>
+	</div>
+</div>
+<a href="more.html"><button type="button" class="btn btn-primary float-right">Skills</button></a>
